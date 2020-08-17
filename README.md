@@ -11,5 +11,5 @@ You can contact me at discord: Flock#5108<br>
 Or at my website: https://devflock.github.io/ContactMe/
 
 ## GitHub Stats 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DevFlock&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DevFlock&show_icons=true&theme=dark)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevFlock&theme=dark)
