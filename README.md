@@ -7,7 +7,7 @@ Hello! My name is GitHub name is DevFlock, But I go as Airflock. I'm young and t
 I have been learning python for a bit over a month and now learning JavaScript, I also know the basics of HTML and CSS. I'm looking to know as many as I can before I finish my high school!
 
 ## Contact Me
-You can contact me at discord: Flock#5108
+You can contact me at discord: Flock#5108<br>
 Or at my website: https://devflock.github.io/ContactMe/
 
 ## GitHub Stats 
