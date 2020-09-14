@@ -8,7 +8,7 @@ I have been learning python for a bit over a month and now learning JavaScript, 
 
 ## Contact Me
 You can contact me at discord: Flock#5108<br>
-Or at my website: https://devflock.github.io/ContactMe/
+Or at my website: https://flock.cf/ContactMe/
 
 ## GitHub Stats 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DevFlock&show_icons=true&theme=dark)<br>
