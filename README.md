@@ -1,7 +1,7 @@
 # Welcome to my profile!
 
 ## About me
-Hello! My name is GitHub name is DevFlock, But I go as Flonc. At the time of writing, I currently have over a years experience but still learning new things. 
+Hello! My GitHub name is DevFlock, But I go as Flonc. At the time of writing, I currently have over a years experience but still learning new things. 
 
 ## Languages I know
 Have been doing Python since august 2020 and know the basics of Java, JavaScript, C#, Lua and learning Kotlin.
