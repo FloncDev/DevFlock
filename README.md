@@ -1,15 +1,15 @@
 # Welcome to my profile!
 
 ## About me
-Hello! My GitHub name is DevFlock, But I go as Flonc. At the time of writing, I currently have over a years experience but still learning new things. 
+Hello! My GitHub name is DevFlock, But I go as Flonc or DevFlonc. At the time of writing, I currently have nearly 2 years yet still have not done anything much. 
 
 ## Languages I know
-Have been doing Python since august 2020 and know the basics of Java, JavaScript, C#, Lua and learning Kotlin.
-Also know HTML and CSS but they are not really languages.
+Have been doing Python since august 2020 and know basics of some other languages. Currently trying to learn rust but don't have much to make with it.
+Also know some web dev but that doesn't count.
 
 ## Contact Me
 You can contact me at discord: Flonc#0001<br>
-Or at my website: https://flock.cf/ContactMe/
+Or at my website: [GOTTA BE REMADE]
 
 ## GitHub Stats 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DevFlock&show_icons=true&theme=dark)<br>
