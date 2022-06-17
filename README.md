@@ -1,7 +1,7 @@
 # Welcome to my profile!
 
 ## About me
-Hello! My GitHub name is DevFlock, But I go as Flonc or DevFlonc. At the time of writing, I currently have nearly 2 years yet still have not done anything much. 
+Hello! I usually go as Flonc but using my github name is also fine. At the time of writing, I currently have nearly 2 years yet still have not done anything much. 
 
 ## Languages I know
 Have been doing Python since august 2020 and know basics of some other languages. Currently trying to learn rust but don't have much to make with it.
